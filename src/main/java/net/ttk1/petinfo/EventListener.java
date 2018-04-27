@@ -1,4 +1,4 @@
-package net.ttk1;
+package net.ttk1.petinfo;
 
 import org.bukkit.entity.Player;
 import org.bukkit.entity.Tameable;
